@@ -8,4 +8,8 @@ public class Hra {
     public void setNazev(String nazev) {
         this.nazev = nazev;
     }
+
+    public Hra(String nazev) {
+        this.nazev = nazev;
+    }
 }
