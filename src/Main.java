@@ -4,5 +4,6 @@ public class Main {
         System.out.println(c + c);
         System.out.println(c);
         System.out.println("nazdar");
+        System.out.println("saffffffffdasds");
     }
 }
