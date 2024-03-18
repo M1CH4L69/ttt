@@ -22,4 +22,13 @@ public class Pole {
     public void setSirka(int sirka) {
         this.sirka = sirka;
     }
+
+    public void createPole(){
+        for (int i = 0; i < 3; i++){
+            for (int j = 0; j < 3; i++){
+                System.out.println("/" + i + "/");
+            }
+            System.out.println();
+        }
+    }
 }
