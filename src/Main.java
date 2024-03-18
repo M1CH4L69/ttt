@@ -3,5 +3,6 @@ public class Main {
        int c = 0;
         System.out.println(c + c);
         System.out.println(c);
+        System.out.println("nazdar");
     }
 }
