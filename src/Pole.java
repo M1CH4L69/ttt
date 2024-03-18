@@ -25,10 +25,10 @@ public class Pole {
 
     public void createPole(){
         for (int i = 0; i < 3; i++){
-            for (int j = 0; j < 3; i++){
-                System.out.println("/" + i + "/");
-            }
             System.out.println();
+            for (int j = 0; j < 3; j++){
+                System.out.print("/" + j + "/");
+            }
         }
     }
 }
