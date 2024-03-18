@@ -23,4 +23,5 @@ public class Hrac {
     public void setSymbol(char symbol) {
         this.symbol = symbol;
     }
+
 }
